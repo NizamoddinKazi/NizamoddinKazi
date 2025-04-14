@@ -1,6 +1,6 @@
 # About_Me
 
-Hi there,I'm Nizamoddin Kazi 👋
+Hi there, I'm Nizamoddin Kazi 👋
 
 Hi, I'm Nizamoddin Kazi, an aspiring Data Analyst with a passion for turning data into actionable insights. I am continuously learning and growing my skills, with the goal of working in a good organization in the future where I can contribute to meaningful projects and make a positive impact.
 
