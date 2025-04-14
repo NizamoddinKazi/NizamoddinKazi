@@ -8,10 +8,7 @@ Hi, I'm Nizamoddin Kazi, an aspiring Data Analyst with a passion for turning dat
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nizamoddin-kazi-401492225/)
 
 
-
-
-<img align="right" alt="GIF" src="https://github.com/NizamoddinKazi/NizamoddinKazi/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
-  
+<img align="right" alt="GIF" src="https://github.com/NizamoddinKazi/NizamoddinKazi/blob/c680777d21895d6e0fd354cb2ad1a7bb37eb4b86/Junior%20Data%20Analyst%20Background%20Photo.webp" width="400" height="225" />
 
 **Talking about Personal Stuffs:**
 
